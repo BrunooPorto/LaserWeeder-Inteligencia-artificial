@@ -26,6 +26,7 @@ Instalação e Requisitos
 Pré-requisitos:
 
 **Python 3.7 ou superior**
+
 **Google Colab (recomendado para executar o projeto)**
 
 **Bibliotecas necessárias:**
@@ -39,6 +40,8 @@ PIL
 
 **Passos para execução**
 
+Arquivo de texto no repositório com os passos "HowToExecute"
+
 Clone o repositório:
 
 git clone: (https://github.com/BrunooPorto/LaserWeeder-Inteligencia-artificial.git)
@@ -47,7 +50,7 @@ git clone: (https://github.com/BrunooPorto/LaserWeeder-Inteligencia-artificial.g
 [![Abrir no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrunooPorto/LaserWeeder-Inteligencia-artificial/blob/main/Prot%C3%B3tico_LaserWeeder_Inteligencia_artificial.ipynb)
 
 
-**Certifique-se de carregar o modelo treinado (deepweeds_model.h5) no notebook para realizar predições.**
+**Certifique-se de carregar o modelo treinado (deepweeds_model.h5) e o (kaggle.json) no notebook para realizar predições.**
 
 Resultados
 O modelo alcançou uma precisão de 100% na detecção de plantas daninhas, com visualizações de métricas como a matriz de confusão e gráficos de curva ROC. Esses resultados demonstram a viabilidade de aplicar IA na agricultura.
